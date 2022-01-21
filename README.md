@@ -6,5 +6,5 @@ the `FSTAR_HOME` and `KREMLIN_HOME` environment variables successfully.
 
 ## Build
 
-Just run `sh ./build.sh`
+Just run `sh ./build.sh` to build an executable named `main`.
 
