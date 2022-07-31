@@ -1,0 +1,8 @@
+App.c
+main
+App.h
+*.o
+Makefile.*
+compile_flags.txt
+internal/
+out.krml
